@@ -44,7 +44,7 @@ To get the app up and running on your local machine, follow these steps:
 Once started, the app will be available on your browser. 🎉
 
 ## 📂 Project Structure
-
+```
 my-react-app/
   ├── node_modules/          # Dependencies
   ├── public/                # Static files (index.html)
