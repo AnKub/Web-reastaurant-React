@@ -45,7 +45,6 @@ Once started, the app will be available on your browser. 🎉
 
 ## 📂 Project Structure
 
-```plaintext
 my-react-app/
   ├── node_modules/          # Dependencies
   ├── public/                # Static files (index.html)
